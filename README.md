@@ -3,3 +3,5 @@
 SAのスライドはいろいろひどい(実装例のうらるがそもそもまちがっていたりする)
 
 ヒマなときに更新するかも
+
+[![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=+&color=brightgreen&logo=github)](https://suu0313.github.io/JournalClub/)
